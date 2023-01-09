@@ -1,0 +1,22 @@
+{
+  "name": "technologies-and-programming-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@typescript-eslint/eslint-plugin": "^5.48.0",
+    "@typescript-eslint/parser": "^5.48.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
